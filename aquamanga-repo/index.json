@@ -1,0 +1,33 @@
+{
+  "name": "Aqua Manga (custom)",
+  "badgeLabel": "AQUA",
+  "signingKey": "be2c68500e33222e9cf5cfd78bf6d4ae5a310b3b88c9a5d343c1d05ccf15cf9b",
+  "contact": {
+    "website": "https://aquamanga.io"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Aqua Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.aquamanga",
+        "resources": {
+          "apkUrl": "https://github.com/Arch0zn-domain/extensions/raw/arch/focused-carson-e5bkvw/aquamanga-repo/apk/tachiyomi-en.aquamanga-v1.6.79.apk",
+          "iconUrl": "https://github.com/Arch0zn-domain/extensions/raw/arch/focused-carson-e5bkvw/aquamanga-repo/icon/eu.kanade.tachiyomi.extension.en.aquamanga.png",
+          "jarUrl": "https://github.com/Arch0zn-domain/extensions/raw/arch/focused-carson-e5bkvw/aquamanga-repo/jar/tachiyomi-en.aquamanga-v1.6.79.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106079",
+        "versionName": "1.6.79",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "626267698662819838",
+            "name": "Aqua Manga",
+            "language": "en",
+            "homeUrl": "https://aquamanga.io"
+          }
+        ]
+      }
+    ]
+  }
+}
